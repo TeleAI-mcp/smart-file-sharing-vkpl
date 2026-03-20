@@ -1,2 +1,3 @@
-# smart-file-sharing-vkpl
-Automated issue comment bot repository
+# Smart File Sharing Vkpl
+
+Automated issue comment bot repository.
